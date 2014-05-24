@@ -1,7 +1,7 @@
 FlatDrawableBuilder
 ===================
 
-Small and simple library for creating flat android.graphics.drawable.Drawable instances programmatically.
+Small and simple library for creating flat `android.graphics.drawable.Drawable` instances programmatically.
 
 ![Example Image][1]
 
