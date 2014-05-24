@@ -8,7 +8,7 @@ Small and simple library for creating flat android.graphics.drawable.Drawable in
 
 Usage
 =====
-
+```java
 	Drawable drawable = DrawableBuilder.create(StateBuilder.create()
 				.setColor("#33B5E5")
 				.setCornerRadius(5)
@@ -24,5 +24,6 @@ Usage
 		.build();
 		
 	BackgroundSetter.setBackgroundDrawable(drawable, view);
+````
 
 [1]: https://raw.githubusercontent.com/Gary111/FlatDrawableBuilder/master/sample/etc/screens/demo_1.png
